@@ -1,0 +1,17 @@
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.deps.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.runtimeconfig.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.runtimeconfig.dev.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.pdb
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\bin\Debug\netcoreapp2.1\CobWebScraper.pdb
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.csprojAssemblyReference.cache
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.AssemblyInfoInputs.cache
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.AssemblyInfo.cs
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.csproj.CopyComplete
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper.Test.Unit\obj\Debug\netcoreapp2.1\CobWebScraper.Test.Unit.pdb

@@ -1,0 +1,11 @@
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\bin\Debug\netcoreapp2.1\CobWebScraper.deps.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\bin\Debug\netcoreapp2.1\CobWebScraper.runtimeconfig.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\bin\Debug\netcoreapp2.1\CobWebScraper.runtimeconfig.dev.json
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\bin\Debug\netcoreapp2.1\CobWebScraper.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\bin\Debug\netcoreapp2.1\CobWebScraper.pdb
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.csproj.CoreCompileInputs.cache
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.AssemblyInfoInputs.cache
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.AssemblyInfo.cs
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.dll
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.pdb
+C:\Users\iigbo\Desktop\sandbox\CobWebScraper\CobWebScraper\obj\Debug\netcoreapp2.1\CobWebScraper.csprojAssemblyReference.cache
